@@ -60,7 +60,8 @@ A second view, **Employee Records**, lists all employee details, including depar
 
 <p align="center">
   <!-- <img src="https://files.oaiusercontent.com/file_000000002628720697a2f9eb1f8d62bd" alt="Employee Records Dashboard" width="800" /> -->
-  <img width="1402" height="802" alt="Screenshot 2025-11-12 184133" src="https://github.com/user-attachments/assets/e5dc7912-1380-481e-93f3-610540925160" />
+  <img width="1403" height="808" alt="Screenshot 2025-11-15 011206" src="https://github.com/user-attachments/assets/a2eef6e3-3a7e-4df2-96c0-94fd5bb3ae27" />
+
 
 </p>
 
