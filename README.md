@@ -49,7 +49,9 @@ A second view, **Employee Records**, lists all employee details, including depar
 ### Overview Dashboard
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file_00000000c71c720693723285c8155794" alt="Overview Dashboard" width="800" />
+  <!-- <img src="https://files.oaiusercontent.com/file_00000000c71c720693723285c8155794" alt="Overview Dashboard" width="800" /> -->
+  <img width="1403" height="802" alt="Screenshot 2025-11-12 184016" src="https://github.com/user-attachments/assets/60fab772-ee67-47e3-bf49-ab835e06607b" />
+
 </p>
 
 *Displays overall workforce insights including hires, terminations, departments, locations, and salary analysis.*
@@ -57,7 +59,9 @@ A second view, **Employee Records**, lists all employee details, including depar
 ### Employee Records Dashboard
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file_000000002628720697a2f9eb1f8d62bd" alt="Employee Records Dashboard" width="800" />
+  <!-- <img src="https://files.oaiusercontent.com/file_000000002628720697a2f9eb1f8d62bd" alt="Employee Records Dashboard" width="800" /> -->
+  <img width="1402" height="802" alt="Screenshot 2025-11-12 184133" src="https://github.com/user-attachments/assets/e5dc7912-1380-481e-93f3-610540925160" />
+
 </p>
 
 *Shows detailed employee information with filters by gender, department, education, and employment status.*
